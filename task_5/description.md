@@ -1,5 +1,6 @@
 #  Cipher
 Таблиця, яка використовується для шифрування і розшифрування
+```
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 B C D E F G H I J K L M N O P Q R S T U V W X Y Z A
 C D E F G H I J K L M N O P Q R S T U V W X Y Z A B
@@ -26,7 +27,7 @@ W X Y Z A B C D E F G H I J K L M N O P Q R S T U V
 X Y Z A B C D E F G H I J K L M N O P Q R S T U V W
 Y Z A B C D E F G H I J K L M N O P Q R S T U V W X
 Z A B C D E F G H I J K L M N O P Q R S T U V W X Y
-
+```
 Використання шифру Віженера передбачає якесь задане ключове слово. Це слово або набір букв має складатися лише з великих літер англійського алфавіту.
 
 ### Шифрування
