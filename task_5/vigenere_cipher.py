@@ -1,4 +1,4 @@
-""" Class  """
+"""  Class  """
 
 class VigenereCipher:
     """VigenereCipher class  
