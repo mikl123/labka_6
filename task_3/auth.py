@@ -65,14 +65,6 @@ class PermissionError(Exception):
         return self.message
 
 
-class NotLoggedInError(AuthException):
-    """
-    Not logged in error
-    """
-
-    def __str__(self) -> str:
-        return f"User {self.username} is not logged in"
-
 
 class NotPermittedError(AuthException):
     """

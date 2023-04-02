@@ -3,7 +3,7 @@ Tests for square
 """
 import unittest
 
-from vigener import VigenereCipher
+from vigenere_cipher import VigenereCipher
 
 class ClassesTest(unittest.TestCase):
     """
